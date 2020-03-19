@@ -1,11 +1,11 @@
-Virtual Classrooms:
+Classrooms:
 ---
 
 - Chien: https://meet.google.com/ewp-ewsj-ohg
 - Emerson: https://meet.google.com/rho-wusw-rgz 
 - Lamport: https://meet.google.com/raa-senw-gsv
 
-Virtual Spaces:
+Other Spaces:
 ---
 
 - alum scrum: https://meet.google.com/koc-wpea-ttx 
