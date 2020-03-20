@@ -14,4 +14,5 @@ Other Spaces:
 - ange: https://meet.google.com/kah-ixmt-mzu
 - commons: https://meet.google.com/sag-cexk-txc
 - staff: https://meet.google.com/htt-yeiy-mrj
-- ux instructors: https://meet.google.com/vmp-uego-ogw
+- ux instructors: https://meet.google.com/fmv-mato-hny
+- Alumni Standup: https://meet.google.com/due-aopu-nji
