@@ -5,7 +5,7 @@ Classrooms:
 - Dijkstra: https://meet.google.com/pjv-arcu-bzj
 - Emerson: https://meet.google.com/rho-wusw-rgz 
 - Lamport: https://meet.google.com/raa-senw-gsv
-- Vigenere: https://meet.google.com/gsm-oakp-ckk
+- Drexel: https://meet.google.com/vdk-nyub-odi
 
 Other Spaces:
 ---
