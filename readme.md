@@ -7,6 +7,7 @@ Classrooms:
 - Lamport: https://meet.google.com/raa-senw-gsv
 - Drexel: https://meet.google.com/vdk-nyub-odi
 - Nagle: https://meet.google.com/nhj-fbrp-acn
+- Paxos: https://meet.google.com/kfa-kyjn-boc
 
 Other Spaces:
 ---
