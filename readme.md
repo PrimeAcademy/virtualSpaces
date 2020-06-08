@@ -15,6 +15,7 @@ Other Spaces:
 ---
 
 - Zoom Commons Link: https://zoom.us/j/8742950795 (accessible by students without staff present)
+  - password: prime
 - alum scrum: https://meet.google.com/koc-wpea-ttx 
 - ange: https://meet.google.com/kah-ixmt-mzu
 - commons: https://zoom.us/j/8742950795
