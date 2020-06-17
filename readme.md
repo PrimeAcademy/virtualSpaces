@@ -7,7 +7,7 @@ Classrooms:
 - Lamport: https://meet.google.com/raa-senw-gsv
 - Drexel: https://meet.google.com/vdk-nyub-odi
 - Nagle: https://meet.google.com/nhj-fbrp-acn
-- Paxos: https://meet.google.com/kfa-kyjn-boc
+- Paxos: https://zoom.us/j/94434752729?pwd=WG5VSmZJaWZBdjBTOGFqc2VScUJqUT09
 - Drexel: https://zoom.us/j/4400949112?pwd=WW5OQzBrdDQyTFd2TklFcE81RW9hQT09 (Pass: drexel14)
 
 
